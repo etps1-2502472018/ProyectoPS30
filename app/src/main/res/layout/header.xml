@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:background="#273746"
+    android:gravity="bottom"
+    android:padding="20dp"
+    android:layout_height="175dp">
+
+    <ImageView
+        android:layout_width="100dp"
+        android:src="@drawable/logotipo"
+        android:layout_height="100dp"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:text="JOYERIA PS"
+        android:textColor="@color/white"
+        android:textSize="18sp"
+        android:textStyle="bold"
+        android:paddingLeft="5dp"
+        android:layout_height="wrap_content"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:text="JOYERIA PS-2023"
+        android:textColor="@color/white"
+        android:textSize="8sp"
+        android:textStyle="normal"
+        android:paddingLeft="20dp"
+        android:layout_height="wrap_content"/>
+</LinearLayout>
