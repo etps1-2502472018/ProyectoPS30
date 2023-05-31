@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "530084804762",
+    "firebase_url": "https://proyecto-final-ce36d-default-rtdb.firebaseio.com",
+    "project_id": "proyecto-final-ce36d",
+    "storage_bucket": "proyecto-final-ce36d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:530084804762:android:99db8d36238e3ec759c723",
+        "android_client_info": {
+          "package_name": "sv.edu.utec.proyectops"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8DrFgNoUNm6sMHOV3Be5imA8Yjir0pNM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
