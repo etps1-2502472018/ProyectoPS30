@@ -22,6 +22,7 @@ import sv.edu.utec.proyectops.fragmentosM.Add_Fragment;
 import sv.edu.utec.proyectops.fragmentosM.Delete_Fragment;
 import sv.edu.utec.proyectops.fragmentosM.Edit_Fragment;
 import sv.edu.utec.proyectops.fragmentosM.Update_Fragment;
+import sv.edu.utec.proyectops.fragmentosM.agregarFoto;
 
 public class Home extends AppCompatActivity {
     Button Vcategorias,rdama,rhombre,rkids;
@@ -56,7 +57,7 @@ public class Home extends AppCompatActivity {
 
                     case R.id.add:
                         dl.closeDrawer(GravityCompat.START);
-                        fragmentosDC(new Add_Fragment());
+                        fragmentosDC(new agregarFoto());
                         break;
 
                     case R.id.delete:
